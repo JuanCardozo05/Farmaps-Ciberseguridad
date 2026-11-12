@@ -1,4 +1,4 @@
-# Farmaps — Ciberseguridad y Gestión del Servicio con Enfoque ITIL
+# Farmaps — ciberseguridad y gestión del servicio con enfoque ITIL
 
 **Universidad Libre — Seccional Bogotá**  
 **Facultad de Ingeniería · Programa de Ingeniería de Sistemas**  
