@@ -1,4 +1,4 @@
-# 🛡️ Farmaps — Ciberseguridad y Gestión del Servicio con Enfoque ITIL
+# Farmaps — Ciberseguridad y Gestión del Servicio con Enfoque ITIL
 
 **Universidad Libre — Seccional Bogotá**  
 **Facultad de Ingeniería · Programa de Ingeniería de Sistemas**  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Enlaces en Producción (Firebase Hosting)
+## Enlaces en Producción (Firebase Hosting)
 
 - **Plataforma Principal (`Farmaps-Ciberseguridad`):** [https://farmaps-ciberseguridad.web.app](https://farmaps-ciberseguridad.web.app)
 - **Canal Público de Soporte e Incidentes (`P06`):** [https://farmaps-ciberseguridad.web.app/soporte](https://farmaps-ciberseguridad.web.app/soporte)
@@ -17,7 +17,7 @@
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 - **`PROYECTO/DESARROLLO/`**: Código fuente de la aplicación web adaptada con controles de seguridad activa y gestión del servicio ITIL (`P01`–`P07`, `A01`–`A08`, `compartido/`, `firestore.rules`, `firebase.json`, `.well-known/security.txt` y `poster/`).
 - **`PROYECTO/DOCUMENTACIÓN/`**: Documentación completa del proyecto por fases, incluyendo **`6. Ciberseguridad e ITIL/`** con el manual técnico-operativo, escenarios de *Ethical Hacking* (`S17`–`S22`) y pósters académicos en español e inglés.
